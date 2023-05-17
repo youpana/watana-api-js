@@ -1,0 +1,14 @@
+{
+  "name": "watana-api-js",
+  "version": "1.0.0",
+  "description": "Libreria en JS de Watana API",
+  "main": "src/watana.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LLAMA.PE <soporte@llama.pe> (https://ayuda.llama.pe/integracion)",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "2.6.11"
+  }
+}
